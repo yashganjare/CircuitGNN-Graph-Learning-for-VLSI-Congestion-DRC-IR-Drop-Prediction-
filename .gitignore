@@ -1,0 +1,102 @@
+# ==============================
+# 📂 DATA (VERY IMPORTANT)
+# ==============================
+data/
+dataset/
+datasets/
+feature_extraction/data/
+routability_ir_drop_prediction/datasets/
+synthetic_circuitnet_data/
+
+# Common data formats
+*.csv
+*.tsv
+*.json
+*.npz
+*.npy
+*.h5
+*.hdf5
+
+# ==============================
+# 🧠 MODEL FILES / CHECKPOINTS
+# ==============================
+*.pt
+*.pth
+*.ckpt
+*.model
+checkpoints/
+saved_models/
+
+# ==============================
+# 📊 OUTPUTS / RESULTS
+# ==============================
+logs/
+outputs/
+results/
+*.log
+*.out
+
+# ==============================
+# 🐍 PYTHON CACHE
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# 📦 VIRTUAL ENVIRONMENTS
+# ==============================
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# ==============================
+# 🧪 JUPYTER NOTEBOOKS
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# 🧰 BUILD / DIST
+# ==============================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==============================
+# 🔧 IDE / EDITOR FILES
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# 🖥️ OS FILES
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# 🔐 ENV / SECRETS
+# ==============================
+.env
+.env.*
+*.env
+
+# ==============================
+# 🧵 C/C++ (if used)
+# ==============================
+*.o
+*.so
+*.a
+*.exe
+
+# ==============================
+# 🧩 MISC
+# ==============================
+*.bak
+*.tmp
+*.temp
