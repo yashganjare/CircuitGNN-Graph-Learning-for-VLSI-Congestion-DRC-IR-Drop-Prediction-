@@ -1,3 +1,9 @@
+## 📊 Prediction Outputs
+
+Here are the model predictions for congestion, DRC violations, and IR drop:
+
+![Prediction Outputs](assets/AllThreePredictions.png)
+
 Based on CircuitNet (BSD-3 License, Peking University)
 
 Modified by: Yash Ganjare
